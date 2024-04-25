@@ -17,7 +17,7 @@ git clone https://github.com/sidinelson/Seguradora-Auto.git
 ```
 - Construir o projeto:
 ```
-./mvnw clean package
+./gradlew clean build
 ```
 - Executar:
 ```
